@@ -2,7 +2,7 @@ AddCSLuaFile()
 
 SWEP.PrintName = "arc3000"
 SWEP.Purpose = "Jewicer no.4"
-SWEP.Instructions = "PRIMARY - shoot\n SECONDARY - fire heat seeking missile"
+SWEP.Instructions = "PRIMARY - shoot\n SECONDARY - fire missile"
 SWEP.Category = "Jewiced Up!"
 -- SWEP.Icon = Material("entities/jewicer.png")
 -- SWEP.KillIcon = Material("jewicer_vmt.vmt")
